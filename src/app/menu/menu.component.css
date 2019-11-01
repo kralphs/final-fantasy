@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Final Fantasy Menu';
+    src: url("../../assets/fonts/Final Fantasy.ttf") format("truetype");
+}
+
+.ff-menu {
+    color: white;
+    background-color: rgb(0, 50, 175);
+    border: double;
+    border-width: 4px;
+    border-image: url("../../assets/images/FF Menu Border.png") 4;
+}
